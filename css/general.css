@@ -41,3 +41,17 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+h1, h2, h3, h4, h5, h6,a{
+    color: #314584;
+    font-weight: 600;
+}
+
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+span{
+	color: red;
+}
+p{
+	color: #6e757a;
+}
